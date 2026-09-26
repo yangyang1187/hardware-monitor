@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+.pi/
+.vs/
+*.user
+*.suo
